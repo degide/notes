@@ -1,16 +1,23 @@
-# notes
+## notes
 
-A new Flutter project.
+A notes taking mobile application built with Flutter.
 
-## Getting Started
+### Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="./screenshots/screenshot-2025-07-06_23.01.54.702.png" alt="App screenshot" style="height: 700px; border: 1px solid whitesmoke">
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure [Flutter](https://flutter.dev/docs/get-started/install) v^3.29.3 is installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setup
+
+1. Clone this repository: `git clone https://github.com/degide/notes.git`.
+2. Navigate to the project directory: `cd notes`.
+3. Run `flutter pub get` to install dependencies.
+4. Start the app: `flutter run`.
+
+### Contributor
+
+- Egide Harerimana \<h.egide@alustudent.com\>
+
