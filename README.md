@@ -2,9 +2,26 @@
 
 A notes taking mobile application built with Flutter.
 
+### Project Structure
+
+```md
+lib
+ ├── firebase_options.dart      #Firebase configurations
+ ├── main.dart                  #Main entry file
+ ├── providers
+ │   └── notes_provider.dart    #Notes provider
+ ├── screens
+ │   ├── auth_screen.dart       #The login and signup screen
+ │   └── home_screen.dart       #Notes home screen
+ └── validators
+     └── validators.dart        #Form validators
+ test
+  └── widget_test.dart          #Widget tests
+```
+
 ### Screenshot
 
-<img src="./screenshots/screenshot-2025-07-06_23.01.54.702.png" alt="App screenshot" style="height: 700px; border: 1px solid whitesmoke">
+<img src="./screenshots/WhatsApp Image 2025-07-06 at 11.00.01 PM.jpeg" alt="App screenshot" style="height: 700px; border: 1px solid whitesmoke">
 
 ### Prerequisites
 
