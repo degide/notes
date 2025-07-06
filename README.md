@@ -8,7 +8,7 @@ A notes taking mobile application built with Flutter.
 
 ### Prerequisites
 
-Ensure [Flutter](https://flutter.dev/docs/get-started/install) v^3.29.3 is installed.
+Ensure [Flutter](https://flutter.dev/docs/get-started/install) v3.x is installed.
 
 ### Setup
 
